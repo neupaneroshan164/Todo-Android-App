@@ -8,7 +8,7 @@ Life Cycle aware components and view Model.
 Anroid Studio v4.0
 
 **Getting Started**
-In this App user can add the task with Task Title, Description, Date, Priority and the user also can tick the check box weather the 
+In this App user can add the task with Task Title, Description, Date, Priority and the user also can tick the check box wether the 
 Task is completed in given date or not. Lets Go through the step by step of the Mobile Application.
 
 **Spet 1:**
