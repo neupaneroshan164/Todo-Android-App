@@ -10,6 +10,7 @@ Anroid Studio v4.0
 ##Getting Started
 In this App user can add the task with Task Title, Description, Date, Priority and the user also can tick the check box weather the 
 Task is completed in given date or not. Lets Go through the step by step of the Mobile Application.
+
 Spet 1:
 The login system: user should login to add the task and the username is "admin" and the password is "test". In the app there is a validation 
 		  where is the user provides the incorrect username and password the system didnot let the user to login moreover it provides 
@@ -35,6 +36,7 @@ Task List: After Successfully adding the task user are able to see the list of t
 	   Menu: 'Delete Completed'- user can delete all the completed task by pressing this button.
 		 'Delete All'- user can delete all the list of the task.
 		 'Logout'-user are able to logout the session.
+		 
 Step 5: In the list Interface user can press the particular task and can update the task where by pressing the task the form page is open with the previous data 
 	where user  can change and can tick the check box wether the task is completed or not.  
  	
@@ -48,7 +50,6 @@ L6 Final Shemester
 ##License&Copyright
 ©Roshan Neupane, The British College, Thapathali Kathmandu
 
-In Future
 
 
  
