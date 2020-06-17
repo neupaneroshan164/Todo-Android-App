@@ -1,7 +1,7 @@
 #A Sample TODO Anroid Application Project
 **Version 1.0.0.**
 
-A sample Mobile Application project to build TODO anroid application using MVVM pattern, observer Pattern, 
+A sample Mobile Application project to build TODO android application using MVVM pattern, observer Pattern, 
 Life Cycle aware components and view Model.
 
 **Software**
